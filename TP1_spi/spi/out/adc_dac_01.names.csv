@@ -1,0 +1,301 @@
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00241c 000000b4 t uartProcessIRQ
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005b8 00000004 b rxIsrCallbackUART0
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005bc 00000004 b txIsrCallbackUART0
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005c0 00000004 b txIsrCallbackUART2
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005c4 00000004 b txIsrCallbackUART3
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0041e8 00000048 t lpcUarts
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005c8 00000004 b rxIsrCallbackUART2
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005cc 00000004 b rxIsrCallbackUART3
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100000d0 00000228 b fp
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100002f8 00000230 b fs
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000528 00000016 b rtcString.10999
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000540 00000034 b dataBuff.10998
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000574 00000030 b buffer_gen
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000680 0000000a t ld_word
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00068c 00000016 t ld_dword
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0006a4 00000008 t st_word
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0006ac 00000014 t st_dword
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0006c0 00000012 t mem_cpy
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0006d4 0000000a t mem_set
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0006e0 0000001e t mem_cmp
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000700 00000010 t chk_chr
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000710 00000018 t clust2sect
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000728 00000024 t ld_clust
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00074c 00000024 t st_clust
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000770 000000d0 t create_name
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000840 00000056 t get_ldnumber
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000898 00000034 t validate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0008cc 00000054 t sync_window
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000920 00000034 t move_window
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000954 0000007c t check_fs
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0009d0 000002d4 t find_volume
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000ca4 0000010a t put_fat
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000db0 000000d0 t get_fat
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000e80 000000b0 t dir_sdi
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000f30 000000ca t create_chain
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000ffc 0000007c t remove_chain
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001078 00000126 t dir_next
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0011a0 00000054 t dir_find
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0011f4 0000008c t follow_path
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001280 0000004c t dir_alloc
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0012cc 0000003a t dir_register
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001308 0000008c t sync_fs
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005a4 00000002 b Fsid
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005a8 00000004 b FatFs
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001830 00000004 t chk_power
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001834 00000024 t SSPSend
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001858 00000018 t xmit_spi
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001894 0000001c t rcvr_spi
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0018b0 00000024 t wait_ready
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0018d4 00000018 t deselect
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0018ec 00000024 t select_
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001910 0000007e t send_cmd
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001990 0000005c t xmit_datablock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0019ec 00000064 t rcvr_datablock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ac 00000001 b Timer1
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ad 00000001 b Timer2
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ae 00000001 b CardType
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000000 00000001 d Stat
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005af 00000001 b init.10200
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00200c 00000010 t clearInterrupt
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00201c 00000060 t serveInterrupt
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000004 00000048 d ultrasonicSensors
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0040ac 00000003 t ultrasonicSensorsIrqMap
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002184 0000002c t gpioObtainPinInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000050 00000004 d ClockSpeed
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002668 00000002 t errorOcurred
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00266c 00000002 t doNothing
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000054 00000040 d timer_dd
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002864 00000040 t Board_LED_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0028a4 0000003c t Board_TEC_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0028e0 0000003c t Board_GPIO_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00291c 00000038 t Board_SPI_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002954 00000024 t Board_I2C_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002978 00000030 t Board_ADC_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004230 00000012 t GpioPorts
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00424c 00000008 t GpioButtons
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004254 0000000c t GpioLeds
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004260 0000000c t InitClkStates
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00426c 00000098 t pinmuxing
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002ad0 0000002c t Chip_UART_GetIndex
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004304 00000008 t UART_BClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00430c 00000008 t UART_PClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002c74 00000014 t Chip_ADC_GetClockIndex
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002c88 00000030 t getClkDiv
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002e58 000000a8 t pll_calc_divs
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002f00 00000104 t pll_get_frac
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003004 00000048 t Chip_Clock_FindBaseClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003270 00000022 t Chip_Clock_GetDivRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005d0 00000008 b audio_usb_pll_freq
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004320 0000006c t periph_to_base
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00438c 00000048 t InitClkStates
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0036c0 0000001a t SSP_Write2BFifo
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0036dc 00000018 t SSP_Write1BFifo
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0036f4 0000002a t SSP_Read2BFifo
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003720 0000002a t SSP_Read1BFifo
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00374c 00000014 t Chip_SSP_GetClockIndex
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003760 00000018 t Chip_SSP_GetPeriphClockIndex
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000094 00000038 d i2c
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043d4 b __init_array_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043d4 b __preinit_array_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043d4 b __init_array_start
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043d4 b __preinit_array_start
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003098 0000001c T Chip_Clock_GetDividerSource
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003a44 0000002e T __gnu_uldivmod_helper
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0026ec 00000040 T TIMER2_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00019c 00000002 W DebugMon_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W RIT_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002d20 00000016 T Chip_ADC_DeInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a080000 A __top_MFlashA512
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W ADCHS_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003a78 0000029c T __divdi3
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000114 T __section_table_start
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W FLASH_EEPROM_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W I2C0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00347c 00000030 T Chip_RTC_GetFullTime
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002628 0000003e T delayRead
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005b4 00000004 B callBackFuncParams
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000188 00000002 W HardFault_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000000 A __vectors_start__
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002dec 0000000c T Chip_ADC_SetResolution
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0023ec 00000030 T SysTick_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002b50 00000040 T Chip_UART_SetBaud
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SDIO_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W ATIMER_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a0 00000002 W PendSV_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000184 00000002 W NMI_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043dc R __exidx_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000150 T __data_section_table_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W I2C1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W UART1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GPIO5_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W CAN1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:53ff3f16 A __valid_user_code_checksum
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043dc R _etext
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001f74 00000034 T rtcRead
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W USB1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W I2S0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00272c 00000040 T TIMER3_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0032fc 0000000c T Chip_Clock_GetBaseClocktHz
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000178 0000000a T UART0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001c8 00000012 T bss_init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SGPIO_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001a50 00000158 T disk_initialize
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0039e4 T __aeabi_uldivmod
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ec ? _noinit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005e8 00000004 B SystemCoreClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002afc 00000054 T Chip_UART_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W ADC0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002cc8 00000018 T readAdcVal
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000194 00000002 W UsageFault_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0033c4 0000004c T Chip_Clock_GetRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GPIO6_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005d8 00000008 B tickCounter
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001ba8 00000014 T disk_status
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002a58 0000006c T Board_SetupClocking
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:20008000 A __top_RamAHB32
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0004a0 00000080 T itoa
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004248 00000004 T ExtRateIn
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W IntDefaultHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000300 T __CRP_WORD_END__
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001cf0 00000284 T disk_ioctl
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002088 0000000a T GPIO1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SSP0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0043d4 R __exidx_start
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001fd8 00000034 T rtcInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0002fc 00000004 T CRP_WORD
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002cb8 0000000e T setStartMode
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003f80 0000004c T __libc_init_array
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003d14 0000026a T __udivdi3
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0020a0 0000008c T adcInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W ADC1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0029cc 0000003c T Board_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0039a8 00000002 T _init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000114 T __data_section_table
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00378c 000000b0 T Chip_SSP_RWFrames_Blocking
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004014 00000018 T strnlen
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W RTC_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ec B _ebss
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002df8 00000026 T Chip_ADC_EnableChannel
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002670 0000003c T TIMER0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002370 0000007c T tickInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:20010000 A __top_RamAHB_ETB16
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SPI_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0038f8 00000030 T Chip_I2C_SetClockRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W LCD_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00304c 0000004c T Chip_Clock_EnableCrystal
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00344c 0000002e T Chip_RTC_SetFullTime
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002d38 00000008 T Chip_ADC_ReadValue
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10008000 A __top_RamLoc32
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001ac 0000001a T data_init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003434 00000018 T Chip_RTC_Enable
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002d98 00000020 T Chip_ADC_SetStartMode
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0026ac 00000040 T TIMER1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0038d4 00000024 T Chip_I2C_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00254c 0000000a T UART2_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003208 00000068 T Chip_Clock_GetMainPLLHz
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003410 00000022 T Chip_RTC_ResetClockTickCounter
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0040b0 00000136 T gpioPinsInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003778 00000012 T Chip_SSP_SetClockRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002094 0000000a T GPIO2_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00212c 00000058 T adcRead
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0032d8 00000024 T Chip_Clock_GetBaseClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100000d0 B _bss
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002d40 00000038 T Chip_ADC_ReadStatus
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002db8 00000032 T Chip_ADC_SetSampleRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00180c 00000024 T f_close
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002608 00000020 T delayInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001870 00000024 T SSPReceive
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W I2S1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00383c 0000003e T Chip_SSP_SetBitRate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00356c 00000002 T Chip_GPIO_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a004244 00000004 T OscRateIn
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0024d0 0000007c T uartInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ec ? _end_noinit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10008000 A _vStackTop
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SSP1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000178 T __bss_section_table_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0021b0 0000019c T gpioInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0034cc 00000048 T Chip_RTC_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003a74 00000002 W __aeabi_ldiv0
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003fec 00000028 T strncat
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W USB0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003390 00000034 T Chip_Clock_Disable
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GPIO3_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SCT_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0030b4 0000001c T Chip_Clock_GetDividerDivisor
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0002fc T __CRP_WORD_START__
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003fcc 00000010 T memset
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00018c 00000002 W MemManage_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000300 000001a0 T main
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001770 0000009c T f_sync
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W WDT_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002564 00000050 T spiInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:2000c000 A __top_RamAHB16
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1008a000 A __top_RamLoc40
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000198 00000002 W SVC_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1000004c 00000004 D DWT_CTRL
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001394 00000058 T f_mount
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GPIO7_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003308 0000003c T Chip_Clock_EnableOpts
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0030d0 000000b8 T Chip_Clock_GetClockInputHz
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003514 00000058 T fpuInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003188 00000080 T Chip_Clock_CalcMainPLLValue
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002a08 0000001c T SystemInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W SPIFI_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0025d0 00000038 T delay
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W QEI_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000150 T __bss_section_table
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003378 00000018 T Chip_Clock_RTCEnable
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002ce0 00000040 T Chip_ADC_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002a24 00000034 T Board_SetupMuxing
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000520 00000160 T showDateAndTime
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001fa8 00000030 T rtcWrite
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002b90 000000e4 T Chip_UART_SetBaudFDR
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00234c 0000000c T tickRead
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005e0 00000008 B tickRateMS
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002e20 00000022 T Chip_ADC_SetBurstCmd
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W ETH_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005b0 00000004 B tickHookFunction
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000000 ? _end_uninit_RESERVED
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W CAN0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:10000000 D _data
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100005ec B _pvHeapStart
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000178 T __section_table_end
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00387c 00000038 T Chip_SSP_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GINT0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W DAC_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0029a8 00000024 T Board_Debug_Init
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002d78 0000001e T Chip_ADC_Int_SetChannelCmd
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:100000cc D _edata
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0038b4 00000020 T Chip_I2C_EventHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W M0SUB_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0015c8 000001a8 T f_write
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003570 00000150 T Chip_SetupCoreClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00207c 0000000a T GPIO0_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0013ec 000001dc T f_open
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001c44 000000ac T disk_write
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000000 00000114 T g_pfnVectors
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003928 00000080 T ResetISR
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002e44 00000014 T SystemCoreClockUpdate
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0034ac 00000020 T Chip_RTC_CalibCounterCmd
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W DMA_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W EVRT_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1b080000 A __top_MFlashB512
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003a74 00000002 W __aeabi_idiv0
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a000190 00000002 W BusFault_Handler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003fdc 00000010 T strlen
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a001bbc 00000088 T disk_read
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003344 00000034 T Chip_Clock_Enable
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002558 0000000a T UART3_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W MCPWM_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003a14 0000002e T __gnu_ldivmod_helper
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W M0APP_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a00276c 000000f8 T boardInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GINT1_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0039ac T __aeabi_ldivmod
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002358 00000018 T tickPowerSet
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a003294 00000044 T Chip_Clock_SetBaseClock
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0025b4 0000001c T cyclesCounterInit
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a0001a8 00000002 W GPIO4_IRQHandler
+examples/sAPI/mi_proyecto/adc_dac_01/out/adc_dac_01.elf:1a002ac4 0000000c T Board_SystemInit
